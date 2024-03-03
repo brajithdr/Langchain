@@ -15,4 +15,6 @@ numpy
 opencv-python
 unstructured_inference
 pikepdf
+langchain_text_splitters
+FAISS
 
